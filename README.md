@@ -23,4 +23,3 @@ git config --global user.email "信箱"
 
 ## 建立django環境
 python -m venv (取名字) or virtualenv (取名字)
-source (名字)/bin/activate
